@@ -21,7 +21,7 @@ Inicie o projeto
 
 ## Screenshots
 
-![App Screenshot](./images/)
+![App Screenshot](./images/Screenshot.jpg)
 
 ## Autores
 
